@@ -1,3 +1,3 @@
 # gitSign_extension
-netusim co sa robi \n
+netusim co sa robi  
 Sami
